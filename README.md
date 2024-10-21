@@ -51,7 +51,7 @@ Pour utiliser et tester ce projet, vous aurez besoin de :
 
    ```bash
 
-   git clone https://github.com/votre-utilisateur/projet-barriere-automatix.git
+   git clone https://github.com/sanndobtg/projet-barriere-automatix.git
 
 2. Ouvrez le fichier source barriere_automatix.c dans l’éditeur RobotC.
 
